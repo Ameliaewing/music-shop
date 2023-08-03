@@ -403,7 +403,7 @@ section.contact-details {
     background-color: #75767b61;
 }
 
-img {
+.contact-details img{
     max-width: 30%;
     max-height: 25%;
     padding-left: 25px;
